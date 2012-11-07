@@ -149,6 +149,14 @@
     <string name="show_overflow_summary">无论是否存在导航栏均在应用程序中显示内置的菜单按钮（3个点）</string>
     <string name="show_overflow_toast_enable">在应用程序重新运行前菜单按钮可能依然显示</string>
     <string name="show_overflow_toast_disable">在应用程序重新运行前菜单按钮可能依然隐藏</string>
+    <string name="notification_show_wifi_ssid_title">显示无线网络名称</string>
+    <string name="notification_show_wifi_ssid_summary">显示的当前连接的Wifi网络的名称</string>
+    <string name="scroller_options">滚动选项</string>
+    <string name="scroll">滚动</string>
+    <string name="scroll_title">滚动选项</string>
+    <string name="scroll_summary">调整适合你的滚动特点</string>
+    <string name="scroll_friction_title">滚动阻力</string>
+    <string name="custom_fling_velocity_title">甩动滚动速度</string>
 
     <!-- LCD Density 密度 -->
     <string name="lcd_density_title">LCD 密度</string>
@@ -422,6 +430,10 @@
     <string name="volume_music_controls_summary">锁屏时长按音量键可以切换歌曲，当音乐正在播放时音量键唤醒功能无效。</string>
     <string name="lockscreen_stock_music_layout_title">原生音乐布局</string>
     <string name="lockscreen_stock_music_layout_summary">当音乐播放时使用原生布局</string>
+
+    <string name="show_lock_before_unlock_title">显示之前开锁的锁屏</string>
+    <string name="show_lock_before_unlock_summary">显示标准的锁屏前的安全解锁</string>
+
     <string name="lockscreen_wallpaper_title">选择锁屏壁纸</string>
     <string name="lockscreen_wallpaper_summary">在本页面按菜单键可选择重置锁屏壁纸</string>
     <string name="lockscreen_text_color_title">锁屏文字颜色</string>
@@ -445,6 +457,10 @@
     <string name="lockscreen_calendar_flip_summary">启用将以弹出动画显示多个活动</string>
     <string name="lockscreen_calendar_interval_title">弹出间隔</string>
     <string name="lockscreen_calendar_interval_summary">选择弹出动画速度</string>
+
+    <string name="alt_lockscreen_title">使用ALT锁屏</string>
+    <string name="alt_lockscreen_summary">滑动任意方式解锁</string>
+    <string name="alt_lock_bg_color_title">选择ALT锁定背景颜色</string>
 
     <!-- Lockscreen Targets 锁屏目标-->
     <string name="custom_targets">自定义锁屏目标</string>
